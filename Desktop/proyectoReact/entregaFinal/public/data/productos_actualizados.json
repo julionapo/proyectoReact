@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Heladera Whirlpool",
+    "price": 44500,
+    "category": "electrodomesticos",
+    "description": "Heladera de gran capacidad.",
+    "image": "https://placehold.co/300x300?text=Heladera+Whirlpool"
+  },
+  {
+    "title": "Aspiradora Bosch",
+    "price": 1200,
+    "category": "electrodomesticos",
+    "description": "Potente y silenciosa.",
+    "image": "https://placehold.co/300x300?text=Aspiradora+Bosch"
+  },
+  {
+    "title": "Cafetera Nespresso",
+    "price": 3500,
+    "category": "electrodomesticos",
+    "description": "Café gourmet en segundos.",
+    "image": "https://placehold.co/300x300?text=Cafetera+Nespresso"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "price": 444500,
+    "category": "electrodomesticos",
+    "description": "Lavarropas de última generación.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Lavarropas+Samsung",
+    "title": "1"
+  },
+  {
+    "price": 1200,
+    "category": "electrodomesticos",
+    "description": "Diseño moderno y potencia.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Licuadora+Philips",
+    "title": "2"
+  },
+  {
+    "price": 3500,
+    "category": "electrodomesticos",
+    "description": "Producto 3 de alta calidad.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Producto+3",
+    "title": "3"
+  },
+  {
+    "price": 2800,
+    "category": "electrodomesticos",
+    "description": "Producto 4 de alta calidad.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Producto+4",
+    "title": "4"
+  },
+  {
+    "price": 4100,
+    "category": "electrodomesticos",
+    "description": "Producto 5 de alta calidad.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Producto+5",
+    "title": "5"
+  },
+  {
+    "price": 2200,
+    "category": "electrodomesticos",
+    "description": "Producto 6 de alta calidad.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Producto+6",
+    "title": "6"
+  },
+  {
+    "price": 3300,
+    "category": "electrodomesticos",
+    "description": "Producto 7 de alta calidad.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Producto+7",
+    "title": "7"
+  },
+  {
+    "price": 1500,
+    "category": "electrodomesticos",
+    "description": "Producto 8 de alta calidad.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Producto+8",
+    "title": "8"
+  },
+  {
+    "price": 2700,
+    "category": "electrodomesticos",
+    "description": "Producto 9 de alta calidad.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Producto+9",
+    "title": "9"
+  },
+  {
+    "price": 3600,
+    "category": "electrodomesticos",
+    "description": "Producto 10 de alta calidad.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Producto+10",
+    "title": "10"
+  },
+  {
+    "price": 1900,
+    "category": "electrodomesticos",
+    "description": "Producto 11 de alta calidad.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Producto+11",
+    "title": "11"
+  },
+  {
+    "price": 2500,
+    "category": "electrodomesticos",
+    "description": "Producto 12 de alta calidad.",
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Producto+12",
+    "title": "12"
+  }
+]

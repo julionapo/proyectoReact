@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Lavarropas Samsung",
+    "price": 444500,
+    "category": "electrodomesticos",
+    "description": "Lavarropas de última generación.",
+    "image": "https://via.placeholder.com/300?text=Lavarropas+Samsung"
+  },
+  {
+    "title": "Licuadora Philips",
+    "price": 1200,
+    "category": "electrodomesticos",
+    "description": "Diseño moderno y potencia.",
+    "image": "https://via.placeholder.com/300?text=Licuadora+Philips"
+  },
+  {
+    "title": "Microondas LG",
+    "price": 3500,
+    "category": "electrodomesticos",
+    "description": "Microondas digital con grill.",
+    "image": "https://via.placeholder.com/300?text=Microondas+LG"
+  },
+  {
+    "title": "Heladera Whirlpool",
+    "price": 150000,
+    "category": "electrodomesticos",
+    "description": "Heladera no frost con freezer.",
+    "image": "https://via.placeholder.com/300?text=Heladera+Whirlpool"
+  },
+  {
+    "title": "Aspiradora Bosch",
+    "price": 8000,
+    "category": "electrodomesticos",
+    "description": "Aspiradora potente y silenciosa.",
+    "image": "https://via.placeholder.com/300?text=Aspiradora+Bosch"
+  },
+  {
+    "title": "Cafetera Nespresso",
+    "price": 25000,
+    "category": "electrodomesticos",
+    "description": "Cafetera automática para cápsulas.",
+    "image": "https://via.placeholder.com/300?text=Cafetera+Nespresso"
+  },
+  {
+    "title": "Samsung Galaxy A15",
+    "price": 3200,
+    "category": "celulares",
+    "description": "Pantalla AMOLED de 6.5'' y cámara triple de 50MP.",
+    "image": "https://via.placeholder.com/300?text=Samsung+Galaxy+A15"
+  },
+  {
+    "title": "iPhone 14",
+    "price": 120000,
+    "category": "celulares",
+    "description": "Smartphone Apple con chip A15 Bionic.",
+    "image": "https://via.placeholder.com/300?text=iPhone+14"
+  },
+  {
+    "title": "Xiaomi Redmi Note 12",
+    "price": 45000,
+    "category": "celulares",
+    "description": "Pantalla AMOLED y batería de 5000mAh.",
+    "image": "https://via.placeholder.com/300?text=Redmi+Note+12"
+  },
+  {
+    "title": "Motorola Edge 40",
+    "price": 60000,
+    "category": "celulares",
+    "description": "Diseño elegante y cámara de 64MP.",
+    "image": "https://via.placeholder.com/300?text=Motorola+Edge+40"
+  },
+  {
+    "title": "Huawei P50 Pro",
+    "price": 95000,
+    "category": "celulares",
+    "description": "Smartphone con cámara Leica y gran rendimiento.",
+    "image": "https://via.placeholder.com/300?text=Huawei+P50+Pro"
+  },
+  {
+    "title": "Google Pixel 7",
+    "price": 110000,
+    "category": "celulares",
+    "description": "Android puro con cámara avanzada.",
+    "image": "https://via.placeholder.com/300?text=Google+Pixel+7"
+  }
+]

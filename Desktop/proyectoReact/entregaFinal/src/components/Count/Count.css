@@ -1,0 +1,31 @@
+.count-container {
+  display: flex;
+  justify-content: center; /* ✅ centra horizontalmente */
+  align-items: center;
+  gap: 12px;
+  margin: 20px 0;
+  background-color: #eee; /* ✅ fondo claro para contraste */
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.count-container button {
+  padding: 8px 16px;
+  font-size: 20px;
+  background-color: #2c3e50; /* ✅ color oscuro para contraste */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.count-container button:hover {
+  background-color: #1a252f;
+}
+
+.count-container span {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
